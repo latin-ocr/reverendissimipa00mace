@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./reverendissimipa00mace_0002.png"; bbox 0 0 2131 3423; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 807 688 1086 1053">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 807 688 1086 1053">
+     <span class='ocr_line' id='line_1_1' title="bbox 807 688 1086 1053; baseline 0 2370"><span class='ocrx_word' id='word_1_1' title='bbox 807 688 1086 1053; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 521 1145 1381 1693">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 521 1145 1381 1693">
+     <span class='ocr_line' id='line_1_2' title="bbox 718 1145 1165 1196; baseline -0.002 0"><span class='ocrx_word' id='word_1_2' title='bbox 718 1145 996 1196; x_wconf 83' lang='lat' dir='ltr'><em>Presented</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1013 1155 1064 1196; x_wconf 88' lang='lat' dir='ltr'><strong>to</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1084 1145 1165 1195; x_wconf 88' lang='lat' dir='ltr'><strong>the</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 717 1269 1189 1330; baseline -0.002 -11"><span class='ocrx_word' id='word_1_5' title='bbox 717 1271 1018 1319; x_wconf 88' lang='lat' dir='ltr'><strong>LIBRARY</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1036 1269 1098 1330; x_wconf 90' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1109 1270 1189 1319; x_wconf 87' lang='lat' dir='ltr'><strong>the</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 521 1392 1381 1444; baseline -0.003 0"><span class='ocrx_word' id='word_1_8' title='bbox 521 1394 932 1444; x_wconf 88' lang='lat' dir='ltr'>UNIVERSITY</span> <span class='ocrx_word' id='word_1_9' title='bbox 949 1392 1038 1442; x_wconf 89' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1053 1392 1381 1442; x_wconf 89' lang='lat' dir='ltr'><strong>TORONTO</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 910 1517 973 1579; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 910 1517 973 1579; x_wconf 76' lang='lat' dir='ltr'><strong>by</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 819 1641 1094 1693; baseline -0.004 -1"><span class='ocrx_word' id='word_1_12' title='bbox 819 1641 1094 1693; x_wconf 84' lang='lat' dir='ltr'>Professor</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 700 1766 1210 1832">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 700 1766 1210 1832">
+     <span class='ocr_line' id='line_1_7' title="bbox 700 1766 1210 1832; baseline -0.002 -15"><span class='ocrx_word' id='word_1_13' title='bbox 700 1769 875 1832; x_wconf 82' lang='lat' dir='ltr'>Ralph</span> <span class='ocrx_word' id='word_1_14' title='bbox 898 1767 965 1818; x_wconf 89' lang='lat' dir='ltr'><strong>G.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 985 1766 1210 1818; x_wconf 82' lang='lat' dir='ltr'><strong>Stanton</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
